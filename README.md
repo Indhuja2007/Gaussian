@@ -16,8 +16,7 @@ Print the solution vector formatted to two decimal places
  
 
 ## Program:
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
+```
 Developed by: INDHUJA K
 RegisterNumber: 212225040133
 import numpy as np
@@ -47,10 +46,9 @@ for i in range(n-2,-1,-1):
         
 for i in range(n):
     print('X%d = %0.2f' %(i,x[i]),end=' ')
-
-*/
+```
 ## Output:
-<img width="1141" height="969" alt="image" src="https://github.com/user-attachments/assets/385b226a-6fca-4c95-88d3-53ded355a4ed" />
+<img width="868" height="583" alt="image" src="https://github.com/user-attachments/assets/e0b3fe5f-893d-4701-b402-a47d2f6d589b" />
 
 
 
