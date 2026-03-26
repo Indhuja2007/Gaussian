@@ -16,9 +16,11 @@ Print the solution vector formatted to two decimal places
  
 
 ## Program:
-```
+
 Developed by: INDHUJA K
 RegisterNumber: 212225040133
+
+```
 import numpy as np
 import sys
 n=int(input())
